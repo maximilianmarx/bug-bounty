@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # Enumerates subdomains for a given domain via DNSdumpster
 
 host="example.com"
